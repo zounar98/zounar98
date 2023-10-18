@@ -1,16 +1,23 @@
 ### Hi there 👋
+***I am Shirlei***
 
-<!--
-**zounar98/zounar98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A student of analysis and systems development, and I currently work as a support analyst.**
 
-Here are some ideas to get you started:
+- 🔭 I mainly work with extensive data scraping;
+- 📚 I’m currently learning Python and it's applications;
+- ⚡ I'm into making video games with a historical twist.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**💡 I'm focused on:**
+
+<div style="display: inline">
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" />
+</div>
+
+##
+
+<a href="https://www.linkedin.com/in/shirlei-zounar/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+          
+
