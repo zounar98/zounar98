@@ -5,7 +5,7 @@
 
 - 🔭 I mainly work with extensive data scraping;
 - 📚 I’m currently learning Python and it's applications;
-- 🔒 I also study networks and cybersecurity.
+- 🔒 I'm also studying networking and cybersecurity.
 
 **💡 I'm focused on:**
 
