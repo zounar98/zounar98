@@ -5,7 +5,7 @@
 
 - 🔭 I mainly work with extensive data scraping;
 - 📚 I’m currently learning Python and it's applications;
-- ⚡ I'm into making video games with a historical twist.
+- 🔒 I also study networks and cybersecurity.
 
 **💡 I'm focused on:**
 
